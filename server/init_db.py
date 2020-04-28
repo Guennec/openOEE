@@ -1,9 +1,9 @@
-import t_Terminal
-import m_GroupMachine
-import m_Machine
-import m_StatusClass
-import m_Status
-import m_Counter
+import t_Terminal_init
+import m_GroupMachine_init
+import m_Machine_init
+import m_StatusClass_init
+import m_Status_init
+import m_Counter_init
 from base import Base
 from sqlalchemy import create_engine
 
