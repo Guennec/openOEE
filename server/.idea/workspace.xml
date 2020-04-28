@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="61c15ac3-1505-4080-bcbe-3e3050a71487" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/init_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/init_db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m_Counter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m_GroupMachine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m_Machine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m_Status.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m_StatusClass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/m_StatusList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openOEE.db" beforeDir="false" afterPath="$PROJECT_DIR$/openOEE.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t_Terminal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_head.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +24,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\git\openOEE\server" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.init_db">
     <configuration name="OEEstudio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
