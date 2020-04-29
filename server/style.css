@@ -149,6 +149,9 @@ a.article:hover {
     min-height: 100vh;
     transition: all 0.3s;
 }
+#content h3 {
+        margin-left: 10px;
+    }
 
 /* ---------------------------------------------------
     MEDIAQUERIES
@@ -164,4 +167,14 @@ a.article:hover {
     #sidebarCollapse span {
         display: none;
     }
+
+}
+
+/* ---------------------------------------------------
+    PANEL HEADING
+----------------------------------------------------- */
+.panel-heading {
+    color: #fff;
+    padding: 20px;
+    background: #808080;
 }
